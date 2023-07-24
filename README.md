@@ -20,8 +20,9 @@
    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white"/>
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <br><br>
+   
    <div><h3>💡My Git Stats💡</h3></div>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haecms&show_icons=true&theme=radical)
+   ![Haecms's GitHub stats](https://github-README-stats.vercel.app/api?username=Haecms&show_icons=true&theme=tokyonight)
 </div>
 
 
